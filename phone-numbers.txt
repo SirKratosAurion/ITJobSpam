@@ -1,3 +1,18 @@
+I use android and will personally be blocking all of these phone numbers from the Should I Answer application.
+Downloading the app you will have the option to auto-block negatively rated numbers from the community.
+This app can be used entirely for free. No need to pay.
+
+https://play.google.com/store/apps/details?id=org.mistergroup.shouldianswer&hl=en_US&gl=US
+
+	Settings > Blocking > 
+		Incoming Call [On]
+		Community DB sensitivity [standard or high]
+		Other Blocking Rules
+		reported by you as spam [on]
+	Settings > Protection Settings
+		Protection Type [Active Protection]
+	
+
 636-306-6681
 484-279-4049
 470-764-3534
@@ -25,3 +40,5 @@
 408-214-0793
 254-877-2709
 732-983-5372
+408-834-8730
+408-834-7229
