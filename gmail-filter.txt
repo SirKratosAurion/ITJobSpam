@@ -1,0 +1,20 @@
+Just copy/paste my filter into your Gmail settings.
+
+    Gmail Inbox > Settings > Filters and Blocked Addresses
+
+    Click Create New Filter (bottom of this page)
+
+    In the Has The Words field, simply paste this in:
+
+    from:{xoriant.com OR sibitalent.com OR idctechnologies.com OR infojiniconsulting.com OR talentburst.com OR resource-logistics.com OR softpath.net OR arksolutionsinc.com OR aptino.biz OR i5techinc.com OR compuvis.com OR ageatia.us OR gttit.com OR insigmainc.com OR softhq.com OR lenmarit.com OR lancesoft.com OR deegit.com OR selectsourceintl.com OR vdartinc.com OR nlbservices.com OR ostglobal.com OR kpgtech.com OR experis.com OR thoughtwavesoft.com OR axelon.com OR sysmind.com OR ustechsolutions.com OR siriinfo.com OR ustechsolutionsinc.com OR kimblegroup.com OR xiartech.com OR aptask.com OR etalentnetwork.com OR e-solutionsinc.com OR ceipal.com OR atdtechnology.com OR vlinkinfo.com OR globalkpo.com OR pyramidci.com OR softwarepeople.us OR eteaminc.com OR enterprisesolutioninc.com OR wavsols.com OR saxonglobal.com OR rapiditinc.com OR arreglocs.com OR matrixonweb.com OR ceipaljobs.com OR usgrpinc.com OR okayainc.com OR nityo.com OR hlsolutionsusa.com OR systelinc.com or zodiac-solutions.com OR s2ssoft.com OR tanishasystems.com OR nobledesk101@gmail.com OR endocyclictherapeutic.com OR emonics.com OR info-ways.com OR yochana.com OR georgebernard870@gmail.com}
+
+    Click Create Filter
+
+    On the next page, check-box Delete It and Also Apply filter to XX matching conversions
+
+    Click the big blue Create Filter button and your done.
+
+Recruiters: Did your company make the list? Congratulations. Welcome to my trash.
+
+Original by: u/Elranzer
+Updated by: u/sirkratosaurion
