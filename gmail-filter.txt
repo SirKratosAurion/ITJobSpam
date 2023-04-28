@@ -13,54 +13,8 @@ Just copy/paste my filter into your Gmail settings.
     On the next page, check-box Delete It and Also Apply filter to XX matching conversions
 
     Click the big blue Create Filter button and your done.
-	
-	(see below for an autoreply option)
 
 Recruiters: Did your company make the list? Congratulations. Welcome to my trash.
 
 Original by: u/Elranzer
 Updated by: u/sirkratosaurion
-
-
-
-Autoreply Option:
-
-	Create a second gmail account.
-		Gmail Inbox > Settings > General
-		
-		At the bottom of general look for "Vacation Responder" and turn it on
-		
-		Leave Last day unchecked
-		
-		Subject: 
-		
-			Cease and Desist
-		
-		Body: 
-		
-			Dear Recruiting Firm,
-
-			I am writing this letter to request that you immediately cease and desist sending emails, calling, and harassing people. Your actions are in violation of both US and EU laws, and any further contact from you will be reported to the appropriate authorities.
-
-			Under the US Telephone Consumer Protection Act (TCPA), it is unlawful to make telemarketing calls using automated dialing equipment or prerecorded messages to residential phone lines without the prior express consent of the called party. Your repeated calls and messages constitute a violation of this law.
-
-			Similarly, under the EU General Data Protection Regulation (GDPR), individuals have the right to protection of their personal data, including the right to object to the processing of their personal data for direct marketing purposes. Your persistent emails and calls constitute a violation of this law.
-
-			Your actions are not only illegal but also a form of harassment that is causing significant distress to those affected. It is essential that you immediately stop all communication with the individuals concerned.
-
-			Please be aware that we are keeping a record of all communications from you and will report your actions to the relevant authorities, including the Federal Trade Commission (FTC) in the United States and the European Data Protection Supervisor (EDPS) in the European Union.
-
-			We strongly urge you to comply with this request immediately and refrain from any further contact.
-			
-		SAVE CHANGES
-		
-	In your primary gmail account 	
-		Gmail Inbox > Settings > Forwarding and POP/IMAP
-		
-		Add a forwarding address and confirm it. 
-		
-		Leave it set to "Disable Forwarding"
-		
-		Gmail Inbox > Settings > Filters and Blocked Addresses
-		
-		Edit the filter listed above and change its actions to "Forward to second email and Delete it"
