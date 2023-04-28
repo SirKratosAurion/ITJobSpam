@@ -48,9 +48,10 @@ Filter Setup:
 	
 		With Autoreply: (because gmail wont autoreply if you delete them)
 			Skip the inbox (Archive it)
-			Mark as read
 			Apply the label (create a new label called recruiter spam or something)
 			Send template: Cease and Desist
+			Never mark it as important
+			Also Apply filter to XX matching conversions
 	
 		Without Autoreply:
 			Delete It 
