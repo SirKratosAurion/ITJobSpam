@@ -38,9 +38,9 @@ Filter Setup:
 
     Click Create New Filter (bottom of this page)
 
-    In the Has The Words field, simply paste in the text from gmail-filter.txt:
+    In the Has The Words field, simply paste in the text from gmail-filter.md:
 
-    https://github.com/SirKratosAurion/ITJobSpam/blob/223e424c2691d9259457eaf13ac989190bbb0ae5/gmail-filter.txt
+    [[gmail-filter.md]]
 
     Click Create Filter
 
