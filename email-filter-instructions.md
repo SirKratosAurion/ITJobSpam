@@ -40,7 +40,7 @@ Filter Setup:
 
     In the Has The Words field, simply paste in the text from gmail-filter.md:
 
-    [[gmail-filter.md]]
+    [gmail-filter.md](https://github.com/SirKratosAurion/ITJobSpam/blob/d07465256333588b47ec944c1dfd0425de0e3651/gmail-filter.txt)
 
     Click Create Filter
 
@@ -58,8 +58,6 @@ Filter Setup:
 			Also Apply filter to XX matching conversions
 
     Click the big blue Create Filter button and your done.
-
-Recruiters: Did your company make the list? Congratulations. Welcome to my trash.
 
 Original by: u/Elranzer
 Updated by: u/sirkratosaurion
